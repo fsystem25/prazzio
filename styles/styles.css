@@ -1,0 +1,25 @@
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+.carousel-item > img{
+    min-width: 100vw;
+    max-height: 80vh;
+    filter: brightness(30%);
+}
+
+
+#PROYECTOS, #PALABRA{
+    margin: 2rem;
+}
+
+
+#FORM{    
+    max-height: 30vh; 
+    min-height: 3rem; 
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
